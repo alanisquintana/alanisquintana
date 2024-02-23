@@ -28,6 +28,10 @@
   <a href="https://www.linkedin.com/in/alanis-quintana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/devalanisquintana/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
+  </br>
+
+  ### Sinta-se livre para deixar uma ⭐ em meus repositórios!
+
   ---
 
 <br />
@@ -56,5 +60,6 @@
   <a href="https://www.linkedin.com/in/alanis-quintana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/devalanisquintana/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
+</br>
 
-
+### Feel free to give a ⭐ to my repositories!
