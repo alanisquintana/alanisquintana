@@ -1,65 +1,43 @@
-### [<img align="right" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1280px-Flag_of_the_United_Kingdom.svg.png" />](#english-version)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4343FF&height=120&section=header"/>
 
-<div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF73&size=50&center=true&vCenter=true&width=1000&lines=Hello!;Welcome!;Give+a+star...;to+my+repositories!;Devs+support+Devs...;Follow+me!&duration=5000)](https://git.io/typing-svg)
+
+</br>
+
+<div align="center"> 
+<a href="https://instagram.com/devalanisquintana/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:alanisquintana.dev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/alanis-quintana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&logoWidth=20&logoHeight=20" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+
+</br>
+</br>
+
+<p align="center">
+  <b>Main Skills</b>
+  </br>
+  </br>
+  <img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=E34F26&labelColor=0D1117" alt="HTML">
+  <img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117" alt="CSS">
+</p>
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alanisquintana&show_icons=true&count_private=true&hide_border=true&title_&theme=transparent" alt="Alanis Quintana's Github Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanisquintana&layout=compact&hide_border=true&title_&theme=transparent" />
 </div>
 
----
-
-- ✅ Open to work
-- 🖥️ Front-end
-- 👍 UI/UX
-- 🦜 Freelancer
+[![Alanis Quintana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alanisquintana&bg_color=0d1117&color=004DFF&line=00FF00&point=2EA043&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </br>
-
-## Sobre Mim
-
-👋 Olá! Me chamo Alanis Quintana e sou uma **Desenvolvedora Front-End** com foco em aplicações web, minhas principais tecnologias são *HTML, CSS e JavaScript* . Em meus projetos, busco sempre priorizar a **experiência do usuário (*UX*)**, onde faço uso dos conceitos de *SEO*, *psicologia das cores*, *tipografia* e *Gestalt* na construção da **interface (*UI Design*)**, além de torná-los **responsivos** para **dispositivos móveis (*Metodologia Mobile-First*)**.
-
 </br>
 
-## Contato
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{alanisquintana}/count.svg" /></p> 
+<br>
+</div>
 
-  📩 E-mail: alanisquintana.dev@gmail.com
-
-  <a href="https://www.linkedin.com/in/alanis-quintana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/devalanisquintana/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-  </br>
-
-  ### Sinta-se livre para deixar uma ⭐ em meus repositórios!
-
-  ---
-
-<br />
-<br />
-<br />
-  
-# English Version
-
-- ✅ Open to work
-- 🖥️ Front-end
-- 👍 UI/UX
-- 🦜 Freelancer
-
-</br>
-
-## About Me
-
-👋 Hello! My name is Alanis Quintana, and I'm a **Front-End Developer** focused on web applications. My main technologies are *HTML, CSS, and JavaScript*. In my projects, I always prioritize the **user experience (*UX*)**, where I use concepts of *SEO*, *color psychology*, *typography*, and *Gestalt* in **interface design (*UI Design*)**, in addition to making them **responsive** for **mobile devices (*Mobile-First Methodology*)**.
-
-</br>
-
-## Contato
-
-  📩 E-mail: alanisquintana.dev@gmail.com
-
-  <a href="https://www.linkedin.com/in/alanis-quintana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/devalanisquintana/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-</br>
-
-### Feel free to give a ⭐ to my repositories!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4343FF&height=120&section=footer"/>
