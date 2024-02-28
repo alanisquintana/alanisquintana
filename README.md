@@ -10,8 +10,8 @@
 </br>
 
 <div align="center">
-  <img width="85%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanisquintana&layout=compact&bg_color=00000000&title_color=9EA3A8&text_color=9EA3A8&border_color=C0C6CC"</img>
-  <img width="85%" src="https://streak-stats.demolab.com/?user=alanisquintana&background=00000000&border=C0C6CC&stroke=C0C6CC&ring=00ED00&fire=00ED00&currStreakNum=00ED00&sideNums=9EA3A8&currStreakLabel=00ED00&sideLabels=9EA3A8&dates=C0C6CC&border_radius=8"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanisquintana&layout=compact&bg_color=00000000&title_color=9EA3A8&text_color=9EA3A8&border_color=C0C6CC"</img>
+  <img width="60%" src="https://streak-stats.demolab.com/?user=alanisquintana&background=00000000&border=C0C6CC&stroke=C0C6CC&ring=00ED00&fire=00ED00&currStreakNum=00ED00&sideNums=9EA3A8&currStreakLabel=00ED00&sideLabels=9EA3A8&dates=C0C6CC&border_radius=8"/>
 </div>
 
 </br>
