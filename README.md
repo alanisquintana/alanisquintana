@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C0C6CC&height=100&section=header"/>
 <div align="center">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanisquintana&layout=compact&bg_color=00000000&title_color=C0C6CC"</img>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanisquintana&layout=compact&bg_color=00000000&title_color=C0C6CC&text_color=C0C6CC"</img>
 <br>
 </div>
 
